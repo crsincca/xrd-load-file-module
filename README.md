@@ -1,2 +1,2 @@
-# xrd-main-gui-module
-Main GUI plugin module for crsinc xrd project.
+# xrd-load-file-module
+Load local file module for crsinc xrd project.
